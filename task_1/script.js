@@ -32,9 +32,6 @@ function addTodo(e)
 
     //add todoList
     todoList.appendChild(todoDiv);
-
-    //delete list
-    todoInput.value="";
 }
 
 function deleteCheck(e){
